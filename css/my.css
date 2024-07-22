@@ -57,3 +57,15 @@ a:visited{
 a:link {
   color: rgb(255, 0, 0);
 }
+
+
+. roundimg{
+  width:250px;
+  height:250;
+  object-fit:cover;
+border-radius:50%;
+align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
