@@ -1,7 +1,7 @@
 /*css*/
 
 body {
-	background: rgb(84, 238, 238);
+	background: rgb(0, 255, 255);
 	font-family: 'Roboto', sans-serif;
   padding: 1% 5%; 
   /*margin: 10em auto;
@@ -55,5 +55,5 @@ a:visited{
 }
 
 a:link {
-  color: rgb(58, 11, 11);
+  color: rgb(255, 0, 0);
 }
